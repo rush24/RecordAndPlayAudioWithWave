@@ -1,5 +1,5 @@
 # RecordAndPlayAudioWithWave
-A Simple Example To Control(record 、play、pause、stop、rerecord...) Audio With Beautiful Wave
+A Simple Example To Record And Play Audio With Beautiful Wave
 # Function
 it's suitable for your project to add a widget that can record and play audio,and other basic features,such as pause,stop,rerecord,saveOrCancle,cauculate time,etc,are also included.and beatiful wave is always swingging according to the audio while recording or playing.
 # How To Use
